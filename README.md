@@ -1,0 +1,2 @@
+# Multilingual-Financial-Multiple-Choice-Question-Answering
+The main goal of this project is to classify financial domains, which means that the system needs to figure out what financial category a piece of text belongs in. This is an important job because putting financial data into structured categories makes it easier for analysts, investors, and regulatory bodies to find the information they need.
